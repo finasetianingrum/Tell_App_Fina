@@ -1,2 +1,2 @@
-# Tell_App_
+# Tell_App
 Ini merupakan aplikasi Tell.
