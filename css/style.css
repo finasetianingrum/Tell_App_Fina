@@ -1,0 +1,137 @@
+body {
+	background: url('back.png');
+	margin: 50px;
+}
+
+.story {
+	margin-bottom: 50px;
+}
+
+.category {
+	margin-bottom: 20px;
+}
+
+.category .posisi {
+	float: right;
+	margin-top: 20px;
+}
+
+.tgl {
+	float: right;
+}
+
+.detail{
+	margin-top: 20px;
+}
+
+.lv {
+	position: absolute;
+	left: 20px;
+	height: 60px;
+	width: 60px;
+	background: #FFC5BF;
+	border-radius: 12px;
+	padding: 35px 5px 5px 5px;
+	font-size: 12px;
+
+}
+
+.sc {
+	position: absolute;
+	left: 100px;
+	height: 60px;
+	width: 60px;
+	background: #CBAACB;
+	border-radius: 12px;
+	padding: 35px 5px 5px 5px;
+	font-size: 12px;
+}
+
+.wr {
+	position: absolute;
+	left: 180px;
+	height: 60px;
+	width: 60px;
+	background: #FFFF66;
+	border-radius: 12px;
+	padding: 35px 5px 5px 5px;
+	font-size: 12px;
+}
+
+.hr {
+	position: absolute;
+	left: 260px;
+	height: 60px;
+	width: 60px;
+	background: #898989;
+	border-radius: 12px;
+	padding: 35px 5px 5px 5px;
+	font-size: 12px;
+}
+
+.ch {
+	position: absolute;
+	left: 340px;
+	height: 60px;
+	width: 60px;
+	background: #FFAEA5;
+	border-radius: 12px;
+	padding: 35px 0px 0px 0px;
+	font-size: 12px;
+}
+
+#wrap-box{
+	position: relative;
+	width: 90%;
+	height: 90px;
+}
+
+
+.latest{
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+    margin-top: 20px;
+}
+
+.row {
+	margin-top: 10px;
+	height: 70px;
+	width: 800px;
+}
+
+.row .col {
+	margin-top: 10px;
+	
+}
+
+.row .col i {
+	background: url('star.png');
+}
+
+.row .col a{
+    color: black;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+.latest a:hover {
+    color: blue;
+}
+
+.jam {
+    font-size: 14px;
+    color: gray;
+    size: 20px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+/*position: absolute;
+	left: 100px;
+	width: 390px;
+	border: 1px solid #333;
+	border-radius: 3px;*/
